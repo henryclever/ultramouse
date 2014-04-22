@@ -1,3 +1,8 @@
+//Henry M. Clever
+//Last update 4/22/14
+//This is the code for project ULTRAMOUSE
+//Solder everything correctly on your arduino and it will work!
+
 //Inputs 0 and 1 are used for communication with the Ping Sensors
 
 //arduino pins connected to the 4 inputs of the BCD Decoder
