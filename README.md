@@ -13,4 +13,4 @@ Always note the delays!
 Be careful not to connect anything to pins 0 or 1 on the arduino because it uses them for a serial connection with
 the Ultrasonic sensors.
 
-Any questions? Let me know!
+Any questions? Send me a message! If you need a schematic diagram for soldering or a parts list, let me know. Everything can be purchased from Digikey and Pololu.
